@@ -1,0 +1,47 @@
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe.config
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.pdb
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csprojAssemblyReference.cache
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.g.cs
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\App.g.cs
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.cache
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.lref
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.baml
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.g.resources
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.Properties.Resources.resources
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csproj.GenerateResource.cache
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\Chems\Desktop\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.pdb
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe.config
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.pdb
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csprojAssemblyReference.cache
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.g.cs
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\App.g.cs
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.cache
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.lref
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.baml
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.g.resources
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.Properties.Resources.resources
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csproj.GenerateResource.cache
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.pdb
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\Info.g.cs
+C:\Users\chems\Desktop\ff\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\Info.baml
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe.config
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\bin\Debug\EditorWPF_ChemsBezetout.pdb
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csprojAssemblyReference.cache
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\Info.g.cs
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.g.cs
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\App.g.cs
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.cache
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout_MarkupCompile.lref
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\Info.baml
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\MainWindow.baml
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.g.resources
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.Properties.Resources.resources
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csproj.GenerateResource.cache
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.csproj.CoreCompileInputs.cache
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.exe
+C:\Users\Chems\Desktop\Nueva carpeta (2)\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\EditorWPF_ChemsBezetout\obj\Debug\EditorWPF_ChemsBezetout.pdb

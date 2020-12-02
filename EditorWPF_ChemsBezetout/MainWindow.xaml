@@ -1,0 +1,178 @@
+﻿<Window x:Class="EditorWPF_ChemsBezetout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EditorWPF_ChemsBezetout"
+        mc:Ignorable="d"
+        Title="Editor personal" Height="450" Width="800"
+        Window.Closing="Form_FormClosing">
+
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            
+        
+            <Menu>
+                <MenuItem Header="Archivo">
+                    <MenuItem Header="Nuevo" Click="nuevoFile">
+                        <MenuItem.Icon>
+                            <Image Source="icons/nuevo.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Abrir" Click="Open_Click">
+                        <MenuItem.Icon>
+                            <Image Source="icons/openNew.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Guardar" Click="guardarTexto">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Save.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Salir" Click="Exit_Click">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Exit.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Edicion">
+                    <MenuItem Header="Seleccionar Todo" Command="SelectAll"></MenuItem>
+                    <MenuItem Header="Cortar" Command="Cut">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Cut.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Copiar" Command="Copy">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Copy.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Pegar" Command="Paste">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Cut.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator></Separator>
+                    <MenuItem Header="Color" Click="ColorToolStripMenuItem_Click">
+                        <MenuItem.Icon>
+                            <Image Source="icons/colorFont.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Fuente" Click="FontToolStripMenuItem_Click">
+                        <MenuItem.Icon>
+                            <Image Source="icons/Font.png" Height="15" Width="15"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="Practica" Click="info"></MenuItem>
+            </Menu>
+
+
+            <ToolBar>
+
+                <Button Click="nuevoFile">
+                    <Image Source="icons/nuevo.png" Height="15" Width="20" RenderTransformOrigin="0.625,0.5"></Image>
+                </Button>
+
+                <Button Click="Open_Click">
+                    <Image Source="icons/openNew.png" Height="15" Width="15"></Image>
+                </Button>
+
+                <Button Click="Copy_Click">
+                    <Image Source="icons/Copy.png" Height="15" Width="15"></Image>
+                </Button>
+
+                <Button Click="Cut_Click">
+                    <Image Source="icons/Cut.png" Height="15" Width="15"></Image>
+                </Button>
+
+                <Button Click="Paste_Click">
+                    <Image Source="icons/Paste.png" Height="15" Width="15"></Image>
+                </Button>
+
+                <Button Click="Exit_Click">
+                        <Image Source="icons/Exit.png" Height="15" Width="15"></Image>
+                    </Button>
+            </ToolBar>
+            
+            
+            
+            <TabControl>
+                <TabItem Header="Editor">
+                    <RichTextBox  Name="richTextBox1" Height="350">
+                        <FlowDocument>
+                            <Paragraph>
+                            </Paragraph>
+                        </FlowDocument>
+                        <RichTextBox.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Cut" Command="ApplicationCommands.Cut">
+                                    <MenuItem.Icon>
+                                        <Image Source="icons/Cut.png" Height="15" Width="15"></Image>
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                                <MenuItem  Header="Copy" Command="ApplicationCommands.Copy">
+                                    <MenuItem.Icon>
+                                        <Image Source="icons/Copy.png" Height="15" Width="15"></Image>
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                                <MenuItem Header="Paste" Command="ApplicationCommands.Paste">
+                                    <MenuItem.Icon>
+                                        <Image Source="icons/Paste.png" Height="15" Width="15"></Image>
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                                <MenuItem Header="Seleccionar todo" Command="SelectAll"></MenuItem>
+                                <Separator></Separator>
+                                <MenuItem Header="Font" Click="FontToolStripMenuItem_Click">
+                                    <MenuItem.Icon>
+                                        <Image Source="icons/Font.png" Height="15" Width="15"></Image>
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                                <MenuItem Header="Color" Click="ColorToolStripMenuItem_Click">
+                                    <MenuItem.Icon>
+                                        <Image Source="icons/colorFont.png" Height="15" Width="15"></Image>
+                                    </MenuItem.Icon>
+                                </MenuItem>
+                            </ContextMenu>
+                        </RichTextBox.ContextMenu>
+                    </RichTextBox>
+                </TabItem>
+
+                <TabItem Header="Mostrar">
+                    <StackPanel Orientation="Vertical" Margin="10">
+                        <ListBox Height="300" Name="rutas" MouseDoubleClick="Rutas_DoubleClick">
+                        </ListBox>
+                        <Button Height="35" Width="100" Content="Mostrar" HorizontalAlignment="Left" Click="ShowFiles_Click"/>
+                    </StackPanel>
+                </TabItem>
+
+                <TabItem Header="Configurar">
+
+                    <StackPanel Orientation="Vertical" Margin="20">
+
+                        <CheckBox Click="ShowMenu_CheckedChanged" HorizontalAlignment="Center" Name="activarConfig">Habilitar Menu Contextual</CheckBox>
+
+
+                        <GroupBox IsEnabled="False" Name="Options" Height="100" Header="Opciones" Margin="295,0">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                                <RadioButton Margin="10" Name="fuente">Fuente</RadioButton>
+                                <RadioButton Margin="10" Name="color">Color De Texto</RadioButton>
+                            </StackPanel>
+                        </GroupBox>
+
+                    </StackPanel>
+
+                </TabItem>
+            </TabControl>
+
+
+            
+
+        </StackPanel>
+
+
+    </Grid>
+
+
+    
+</Window>
